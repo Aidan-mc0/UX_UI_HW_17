@@ -43,8 +43,9 @@ p{
 }
 /*hero*/
 .heroImg{
-    padding: 10px;
-    width: 1920px;
+    
+    width: 100px;
+    
 }
 .content{
     width: 500px;
